@@ -1,0 +1,4 @@
+com\pokedexweb_manuelromo\resources\JakartaEE10Resource.class
+servlets\RegistroPokemon.class
+servlets\CargaTiposPokemon.class
+com\pokedexweb_manuelromo\JakartaRestConfiguration.class
