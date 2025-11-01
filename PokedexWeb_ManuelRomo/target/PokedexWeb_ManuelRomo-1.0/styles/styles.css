@@ -180,7 +180,7 @@ input, select{
 
 .pokemon-name{
     grid-area: 2 / 1 / 3 / 2;
-    background-color: var(--bg-color-blue);
+    background-color: var(--bg-color-grey);
     height: 100%;
     width: 100%;
     padding:10px;
@@ -188,7 +188,7 @@ input, select{
 
 .pokemon-number{
     grid-area: 3 / 1 / 4 / 2;
-    background-color: var(--bg-color-orange);
+    background-color: var(--bg-color-white);
     height: 100%;
     width: 100%;
     padding:10px;
