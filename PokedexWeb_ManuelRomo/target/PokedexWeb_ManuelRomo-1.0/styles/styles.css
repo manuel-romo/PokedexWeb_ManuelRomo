@@ -99,6 +99,10 @@ input, select{
     padding: 5px 0;
 }
 
+.container-btn-guardar input:hover{
+    cursor:pointer;
+}
+
 .container-error-message{
     padding: 10px;
     display:flex;
